@@ -20,3 +20,53 @@
 .App-link {
   color: #09d3ac;
 }
+
+.MuiDialog-paperWidthSm {
+  height: auto;
+}
+
+.MuiTypography-noWrap {
+  overflow: unset !important;
+}
+
+
+.MuiFormControl-marginDense {
+  margin-bottom: 40px !important;
+}
+
+
+.MuiButton-containedPrimary {
+  color: #fff !important;
+  background-color: #121213 !important;
+}
+
+.MuiGrid-container {
+  margin-top: 10px;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #111113 !important;
+}
+
+.rc-pagination-item-active {
+  background-color: #111114 !important;
+  border-color:  #111114 !important;;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: #111113 !important;
+}
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #111113 !important;
+}
+
+.article {
+  width: 64%;
+  font-family: PT Serif,serif;
+  font-size: 22px;
+  margin: 40px auto auto auto;
+  overflow-y: scroll;
+  height: 100%;
+  line-height: 1.5;
+}
